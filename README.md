@@ -2,24 +2,26 @@
 A alt ways to install haxelib
 
 ## How to use:
-- Click `main.bat`
-- Select a number to install, E.G: i will press 1 and enter to install
-- and do other thing when it ask
+```diff
++ Click `main.bat`
++ Select a number to install, E.G: i will press 1 and enter to install
++ and do other thing when it ask
+```
 
 ## Download
 ```diff
 + using release part
 ```
 
-```diff 
+```diff
 - Or using
 + Green button (FOR SOME PC CANT DOWNLOAD NORMALLY)
 + click `Download ZIP`
 ``` 
 
-$${\color{yellow}!Thank \space for \space download \space my \space haxelib \space need \space install!}$$
+${\color{yellow}{!Thank \space for \space download \space my \space haxelib \space need \space install!}}$
 
-$${\color{green}!This \space will \space get \space more \space update!}$$
+${\color{cyan}{!This \space will \space get \space more \space update!}}$
 
 # Cool Thing
 HAHA, now i can upload over 100MB file now!!
