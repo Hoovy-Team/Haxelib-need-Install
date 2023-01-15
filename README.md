@@ -17,5 +17,9 @@ A alt ways to install haxelib
 + click `Download ZIP`
 ``` 
 
+$${\color{yellow}!Thank \space for \space download \space my \space haxelib \space need \space install!}$$
+
+$${\color{green}!This \space will \space get \space more \space update!}$$
+
 # Cool Thing
 HAHA, now i can upload over 100MB file now!!
