@@ -1,14 +1,14 @@
-# Haxelib-need-Install
+# $\textcolor{gray}{Haxelib \ need \ Install}$
 A alt ways to install haxelib
 
-## How to use:
+## $\textcolor{gray}{How \ to\ use}$
 ```diff
 + Click `main.bat`
 + Select a number to install, E.G: i will press 1 and enter to install
 + and do other thing when it ask
 ```
 
-## Download
+## $\textcolor{gray}{Download}$
 ```diff
 + using release part
 ```
