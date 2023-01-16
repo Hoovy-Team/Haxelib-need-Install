@@ -18,8 +18,7 @@ Will have 2 choice to download
 ```
 #### $\textcolor{yellow}{Green \ Button}$
 ```diff
-- Or using
-+ Green button (FOR SOME PC CANT DOWNLOAD NORMALLY)
++ Click Green Button
 + click `Download ZIP`
 ``` 
 
