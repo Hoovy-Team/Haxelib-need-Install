@@ -9,16 +9,21 @@ A alt ways to install haxelib
 ```
 
 ## $\textcolor{gray}{Download}$
+
+Will have 2 choice to download
+
+#### $\textcolor{yellow}{Release \ Part}$
 ```diff
 + using release part
 ```
-
+#### $\textcolor{yellow}{Green \ Button}$
 ```diff
 - Or using
 + Green button (FOR SOME PC CANT DOWNLOAD NORMALLY)
 + click `Download ZIP`
 ``` 
 
+## Thank You!
 ${\color{yellow}{!Thank \space for \space download \space my \space haxelib \space need \space install!}}$
 
 ${\color{cyan}{!This \space will \space get \space more \space update!}}$
