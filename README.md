@@ -19,7 +19,7 @@ Will have 2 choice to download
 #### $\textcolor{yellow}{Green \ Button}$
 ```diff
 + Click Green Button
-+ click `Download ZIP`
++ click 'Download ZIP'
 ``` 
 
 ## Thank You!
