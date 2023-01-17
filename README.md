@@ -7,11 +7,8 @@ A alt ways to install haxelib
 + Select a number to install, E.G: i will press 1 and enter to install
 + and do other thing when it ask
 ```
-
-```diff
 - Still Dont know?
-+ Check out [Wiki](https://github.com/Hoovy-Team/Haxelib-need-Install/wiki)
-```
+- Check out [wiki here](https://github.com/Hoovy-Team/Haxelib-need-Install/wiki)
 
 ## $\textcolor{gray}{Download}$
 
