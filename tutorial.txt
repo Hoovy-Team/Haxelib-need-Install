@@ -1,0 +1,6 @@
+How to run Haxelib need install
+
+1. Click the "main.bat"
+2. In main menu, choice the select you want like i want to install main haxelib, i just press "1" and enter
+3. Do the file ask
+4. That all!
