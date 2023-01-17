@@ -8,6 +8,11 @@ A alt ways to install haxelib
 + and do other thing when it ask
 ```
 
+```diff
+- Still Dont know?
++ Check out [Wiki](https://github.com/Hoovy-Team/Haxelib-need-Install/wiki)
+```
+
 ## $\textcolor{gray}{Download}$
 
 Will have 2 choice to download
