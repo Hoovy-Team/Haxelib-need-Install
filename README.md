@@ -29,3 +29,5 @@ ${\color{cyan}{!This \space will \space get \space more \space update!}}$
 
 # Cool Thing
 HAHA, now i can upload over 100MB file now!!
+
+You may want to create a [issues for suggest add new haxelib into main haxelib to install](https://github.com/Hoovy-Team/Haxelib-need-Install/issues)
